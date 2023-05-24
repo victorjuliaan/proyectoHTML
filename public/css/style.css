@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'lato', sans-serif;
+}
+
+.contenedor01 {
+
+    width: 90%;
+    padding: 20px;
+    border: solid 5px black;
+    background-color: salmon;
+    
+
+}
+
+.contenedor02 {
+
+    width: 90vw;
+    padding: 20px;
+    border: solid 5px red;
+    background-color: green;
+    
+
+}
